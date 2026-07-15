@@ -1,0 +1,6 @@
+{
+  "name": "Conciliador de Tubulações via IA",
+  "description": "Plataforma inteligente para conciliação automática de materiais entre desenhos de tubulação técnica e planilhas Jobbook via Google Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
